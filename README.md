@@ -1,8 +1,3 @@
-# CS-Modpack
+# Capwell Studios Mission Pack
 
-Welcome, this is the Capwell Studios GitHub Page.
-
-*** All content is Copyright 2016 Capwell Studios. ***
-
-
-Only use this content with the sole purpose of being apart of the Capwell Studios Community, based here: http://www.capwell.co.uk/
+This contains all missions that the Capwell Studios Community uses for gameplay, all missions are owned by the creator and are given to Capwell Studios upon submission. 
